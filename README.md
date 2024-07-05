@@ -1,4 +1,4 @@
-# Boston City Budget - Team C
+# Boston City Budget
 ### Members
 * Tony Dao _(Class of 2024)_
 * Shivacharan Oruganti _(Class of 2024)_  
@@ -29,4 +29,3 @@ The purpose of this project is to explore and analyze the boston city budget and
 ### Exploring Data and more Experimentation
 * Navigate to the data folder and through any one of the existing folders in there
 * Locate the associated .ipynb file and run the jupyter notebook
-* Edit notebook as wanted (file paths)
